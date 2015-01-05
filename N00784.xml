@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:000943_0000_0FAD96370B7770A8"/>
-            <pb facs="tcp:000943_0001_0FAD963846233290"/>
+            <pb facs="unknown:000943_0000_0FAD96370B7770A8"/>
+            <pb facs="unknown:000943_0001_0FAD963846233290"/>
             <head>His Excellency the Earl of <hi>Bellomont</hi>'s SPEECH To the Houſe of Repreſentatives convened in General Aſſembly at <hi>New-York</hi> the 29th day of <hi>July,</hi> 1700.</head>
             <opener>
                <salute>GENTLE-MEN;</salute>
